@@ -1,4 +1,4 @@
-package com.example.pr19_mirzakamilov_pr23103;
+package com.example.Pr19_Osipov;
 
 import android.app.DatePickerDialog;
 import android.app.TimePickerDialog;
